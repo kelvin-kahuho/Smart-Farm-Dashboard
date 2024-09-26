@@ -12,7 +12,6 @@ This project implements a real-time dashboard for monitoring synthetic sensor da
 - [Endpoints](#endpoints)
 - [Data Generation](#data-generation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
